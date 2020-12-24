@@ -1,1 +1,2 @@
-# C-24-Angry-Bird-Stack
+# p5.play-boilerplate
+Boiler plate for p5.play
